@@ -1,0 +1,17 @@
+# Virtual environments
+.venv/
+venv/
+env/
+.ven/
+
+# PyCharm or IntelliJ project settings
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Misc
+.DS_Store
